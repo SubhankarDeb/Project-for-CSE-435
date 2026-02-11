@@ -1,0 +1,18 @@
+waterborne-disease-prediction-ml/
+│
+├── data/
+│   └── water_quality_dataset.csv
+│
+├── models/
+│   └── model.pkl
+│
+├── src/
+│   ├── train_model.py
+│   ├── predict.py
+│
+├── app/
+│   └── streamlit_app.py
+│
+├── requirements.txt
+├── README.md
+└── .gitignore
